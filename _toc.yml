@@ -1,0 +1,11 @@
+# Table of contents
+# ------------------
+format: jb-book
+root: notebooks/johdanto
+parts: 
+  - caption: Algebra
+    chapters:
+    - file: notebooks/materiaalit-algebra
+  - caption: Lineaarialgebra
+    chapters:
+    - file: notebooks/materiaalit-lineaarialgebra
