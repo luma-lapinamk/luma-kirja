@@ -12,7 +12,7 @@ execute:
 # GitHub-settings
 # ----------------
 repository:
-  url: https://github.com/luma-lapinamk/luma-lapinamk
+  url: https://github.com/luma-lapinamk/luma-kirja
   branch: master
 
 # HTML-settings
