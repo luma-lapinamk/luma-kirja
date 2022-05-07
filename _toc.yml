@@ -6,6 +6,9 @@ parts:
   - caption: Algebra
     chapters:
     - file: notebooks/materiaalit-algebra
+  - caption: Geometria ja trigonometria
+    chapters:
+    - file: notebooks/materiaalit-geometria_ja_trigonometria
   - caption: Lineaarialgebra
     chapters:
     - file: notebooks/materiaalit-lineaarialgebra
