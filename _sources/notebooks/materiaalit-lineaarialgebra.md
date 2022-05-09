@@ -9,4 +9,4 @@ name: kuva-lineaarialgebra
 # Tuotoslinkkejä
 
 
-- [Minna Korhosen 'Lineaarialgebra'-oppimateriaalikirja](https://luma-lapinamk.github.io/minna-lineaarialgebra).
+- [Minna Korhosen 'Lineaarialgebra'-oppikirja](https://luma-lapinamk.github.io/minna-lineaarialgebra).
