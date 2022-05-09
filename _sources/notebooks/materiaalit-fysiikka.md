@@ -9,4 +9,4 @@ name: kuva-fysiikka
 # Tuotoslinkkejä
 
 
-- [Minna Korhosen 'Fysiikka'-oppikirja](https://luma-lapinamk.github.io/minna-fysiikka).
+- [Minna Korhosen 'Fysiikan perusteet'-oppikirja](https://luma-lapinamk.github.io/minna-fysiikka).
