@@ -12,3 +12,6 @@ parts:
   - caption: Lineaarialgebra
     chapters:
     - file: notebooks/materiaalit-lineaarialgebra
+  - caption: Fysiikka
+    chapters:
+    - file: notebooks/materiaalit-fysiikka
