@@ -15,3 +15,6 @@ parts:
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-fysiikka
+  - caption: Datatiede
+    chapters:
+    - file: notebooks/materiaalit-datatiede
