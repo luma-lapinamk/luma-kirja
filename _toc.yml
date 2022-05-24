@@ -12,6 +12,9 @@ parts:
   - caption: Lineaarialgebra
     chapters:
     - file: notebooks/materiaalit-lineaarialgebra
+  - caption: Tilastot ja todennäköisyys
+    chapters:
+    - file: notebooks/materiaalit-tilastot_ja_todennakoisyys
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-fysiikka
