@@ -15,6 +15,9 @@ parts:
   - caption: Tilastot ja todennäköisyys
     chapters:
     - file: notebooks/materiaalit-tilastot_ja_todennakoisyys
+  - caption: Differentiaali- ja integraalilaskenta
+    chapters:
+    - file: notebooks/materiaalit-differentiaali_ja_integraalilaskenta
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-fysiikka
