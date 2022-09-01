@@ -6,7 +6,7 @@ name: kuva-fysiikka
 ```
 
 
-# Tuotoslinkkejä
+# Fysiikan perusteet
 
 
 - [Minna Korhosen 'Fysiikan perusteet'-oppikirja](https://luma-lapinamk.github.io/minna-fysiikka).

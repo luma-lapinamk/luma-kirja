@@ -6,7 +6,7 @@ name: kuva-datatiede
 ```
 
 
-# Tuotoslinkkejä
+# Probability, statistics, and optimization
 
 
 - [Jyri Kivisen 'Probability, statistics, and optimization'-oppimateriaali](https://luma-lapinamk.github.io/jyri-pso).

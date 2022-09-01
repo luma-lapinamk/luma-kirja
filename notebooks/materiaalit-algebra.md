@@ -6,7 +6,7 @@ name: kuva-algebra
 ```
 
 
-# Tuotoslinkkejä
+# Algebra
 
 
 - [Minna Korhosen 'Algebra, geometria ja trigonometria'-oppikirja](https://luma-lapinamk.github.io/minna-agt)

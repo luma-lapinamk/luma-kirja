@@ -6,7 +6,7 @@ name: kuva-tilastot_ja_todennakoisyys
 ```
 
 
-# Tuotoslinkkejä
+# Tilastot ja todennäköisyys
 
 
 - [Minna Korhosen 'Tilastot ja todennäköisyys'-oppikirja](https://luma-lapinamk.github.io/minna-tiltod)

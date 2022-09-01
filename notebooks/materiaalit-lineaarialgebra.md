@@ -6,7 +6,7 @@ name: kuva-lineaarialgebra
 ```
 
 
-# Tuotoslinkkejä
+# Lineaarialgebra
 
 
 - [Minna Korhosen 'Lineaarialgebra'-oppikirja](https://luma-lapinamk.github.io/minna-lineaarialgebra).

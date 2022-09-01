@@ -3,27 +3,21 @@
 format: jb-book
 root: notebooks/johdanto
 parts: 
-  - caption: Algebra
+  - caption: Matematiikka
     chapters:
     - file: notebooks/materiaalit-algebra
-  - caption: Geometria ja trigonometria
-    chapters:
     - file: notebooks/materiaalit-geometria_ja_trigonometria
-  - caption: Lineaarialgebra
-    chapters:
     - file: notebooks/materiaalit-lineaarialgebra
-  - caption: Tilastot ja todennäköisyys
+    - file: notebooks/materiaalit-differentiaali_ja_integraalilaskenta
+  - caption: Tilastotiede
     chapters:
     - file: notebooks/materiaalit-tilastot_ja_todennakoisyys
-  - caption: Differentiaali- ja integraalilaskenta
+  - caption: Datatiede
     chapters:
-    - file: notebooks/materiaalit-differentiaali_ja_integraalilaskenta
+    - file: notebooks/materiaalit-datatiede
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-fysiikka
   - caption: Kemia
     chapters:
     - file: notebooks/materiaalit-kemia
-  - caption: Datatiede
-    chapters:
-    - file: notebooks/materiaalit-datatiede
