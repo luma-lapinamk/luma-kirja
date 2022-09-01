@@ -21,6 +21,9 @@ parts:
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-fysiikka
+  - caption: Kemia
+    chapters:
+    - file: notebooks/materiaalit-kemia
   - caption: Datatiede
     chapters:
     - file: notebooks/materiaalit-datatiede
