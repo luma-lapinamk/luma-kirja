@@ -6,7 +6,7 @@ name: kuva-geometria_ja_trigonometria
 ```
 
 
-# Tuotoslinkkejä
+# Geometria ja trigonometria
 
 
 - [Minna Korhosen 'Algebra, geometria ja trigonometria'-oppikirja](https://luma-lapinamk.github.io/minna-agt)
