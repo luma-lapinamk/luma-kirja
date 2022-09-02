@@ -1,9 +1,10 @@
 # Book settings
 # -------------
 title: Oppimateriaalia
-author: LUMA-tiimi, Lapin AMK
+author: <a href="https://luma-lapinamk.pub">LUMA</a> (<a href="mailto:luma@lapinamk.fi">luma@lapinamk.fi</a>), <a href="https://www.lapinamk.fi">Lapin AMK</a> 
 copyright: "2022"
 logo: images/logo.png
+email: "luma@lapinamk.fi"
 
 # Execution settings
 # -------------------
@@ -19,6 +20,7 @@ repository:
 # HTML-settings
 # --------------
 html:
+  baseurl: "https://luma-lapinamk.pub"
   use_issues_button: false
   use_repository_button: true
   extra_navbar: <a href="https://jupyterbook.org">Jupyter Book</a> voimaa
