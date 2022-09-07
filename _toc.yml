@@ -9,6 +9,7 @@ parts:
     - file: notebooks/materiaalit-geometria_ja_trigonometria
     - file: notebooks/materiaalit-lineaarialgebra
     - file: notebooks/materiaalit-differentiaali_ja_integraalilaskenta
+    - file: notebooks/materials-mathematics
   - caption: Tilastotiede
     chapters:
     - file: notebooks/materiaalit-tilastot_ja_todennakoisyys
