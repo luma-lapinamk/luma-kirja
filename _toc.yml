@@ -19,6 +19,7 @@ parts:
   - caption: Fysiikka
     chapters:
     - file: notebooks/materiaalit-mekaniikka
+    - file: notebooks/materiaalit-lampooppi
   - caption: Kemia
     chapters:
     - file: notebooks/materiaalit-kemia
