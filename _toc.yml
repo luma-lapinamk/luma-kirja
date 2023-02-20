@@ -22,4 +22,5 @@ parts:
     - file: notebooks/materiaalit-lampooppi
   - caption: Kemia
     chapters:
-    - file: notebooks/materiaalit-kemia
+    - file: notebooks/materiaalit-yleinen_kemia
+    - file: notebooks/materiaalit-orgaaninen_kemia
